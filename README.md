@@ -9,3 +9,12 @@ reduzir as localizações possíveis a apenas uma. Um pré-requisito é que o ve
 
 #### COMPORTAMENTO DA BUSCA BINÁRIA
 <img src="/img/binary_search.png">
+
+### BUSCA LINEAR
+Na área de informática, ou Ciência da Computação, costuma-se usar o termo busca linear (ou busca sequencial) para expressar 
+um tipo de pesquisa em vetores ou listas de modo sequencial, i. e., elemento por elemento, de modo que a função do tempo em 
+relação ao número de elementos é linear, ou seja, cresce proporcionalmente.
+[Mais Informações](https://pt.wikipedia.org/wiki/Busca_linear)
+
+#### COMPORTAMENTO DA BUSCA LINEAR
+<img src="/img/linear.png"> 
