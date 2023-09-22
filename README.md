@@ -1,5 +1,11 @@
 # LIP-1_2023.2
 
+### UNIDADE I
+#### Assuntos Estudados
+1 - Iteração x Recursão;
+2 - Desempenho e performance;
+3 - Depuração (GDB) e Profiling (Gprof);
+4 - Gnuplot; 
 
 ### BUSCA BINÁRIA
 A busca binária é um eficiente algoritmo para encontrar um item em uma lista ordenada de itens. 
@@ -49,3 +55,15 @@ ou iguais a n. A notação n! foi introduzida por Christian Kramp em 1808. A seg
 
 #### COMPARATIVO DAS TRÊS ABORDAGENS
 <img src="/img/fat_comp.png">
+
+
+#### COMANDOS PARA COMPILAR E EXECUTAR UM PROGRAMA C++
+Usando um terminal em um ambiente Linux faça: 
+1 - g++ programa.cpp -o programa
+2 - ./programa
+2.1 - ./programa > data.txt (pega a saída do programa e cria um arquivo de txt com os dados)
+
+#### COMANDOS PARA GERAR OS GRÁFICOS NO GNUPLOT
+1 - Gnuplot (Necessário ter o Gnuplot instalado na máquina)
+2 - plot 'data.txt' with lines
+[Mais Informações sobre o Gnuplot](http://www.gnuplot.info/documentation.html)
