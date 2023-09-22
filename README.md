@@ -2,10 +2,10 @@
 
 ### UNIDADE I
 #### Assuntos Estudados
-1 - Iteração x Recursão;
-2 - Desempenho e performance;
-3 - Depuração (GDB) e Profiling (Gprof);
-4 - Gnuplot; 
+1 - Iteração x Recursão;<br/>
+2 - Desempenho e performance; <br/>
+3 - Depuração (GDB) e Profiling (Gprof);<br/>
+4 - Gnuplot; <br/>
 
 ### BUSCA BINÁRIA
 A busca binária é um eficiente algoritmo para encontrar um item em uma lista ordenada de itens. 
