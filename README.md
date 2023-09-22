@@ -58,12 +58,12 @@ ou iguais a n. A notação n! foi introduzida por Christian Kramp em 1808. A seg
 
 
 #### COMANDOS PARA COMPILAR E EXECUTAR UM PROGRAMA C++
-Usando um terminal em um ambiente Linux faça: 
-1 - g++ programa.cpp -o programa
-2 - ./programa
-2.1 - ./programa > data.txt (pega a saída do programa e cria um arquivo de txt com os dados)
+Usando um terminal em um ambiente Linux faça: <br/>
+1 - g++ programa.cpp -o programa <br/>
+2 - ./programa <br/>
+2.1 - ./programa > data.txt (pega a saída do programa e cria um arquivo de txt com os dados) <br/>
 
 #### COMANDOS PARA GERAR OS GRÁFICOS NO GNUPLOT
-1 - Gnuplot (Necessário ter o Gnuplot instalado na máquina)
-2 - plot 'data.txt' with lines
+1 - Gnuplot (Necessário ter o Gnuplot instalado na máquina) <br/>
+2 - plot 'data.txt' with lines <br/>
 [Mais Informações sobre o Gnuplot](http://www.gnuplot.info/documentation.html)
