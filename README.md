@@ -31,3 +31,21 @@ de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na an
 
 #### COMPORTAMENTO DO ALGORITMO DE FIBONACCI RECURSIVO
 <img src="/img/fibo_recur.png">
+
+
+### FATORIAL
+Na matemática, o fatorial (AO 1945: factorial) de um número natural n, representado por n!, é o produto de todos os inteiros positivos menores 
+ou iguais a n. A notação n! foi introduzida por Christian Kramp em 1808. A seguir estão os comportamentos dos algoritmos para cálculo do fatorial de n.
+[Mais Informações](https://pt.wikipedia.org/wiki/Fatorial) 
+
+#### COMPORTAMENTO DO ALGORITMO FATORIAL RECURSIVO
+<img src="/img/fat_recursivo.png">
+
+#### COMPORTAMENTO DO ALGORITMO FATORIAL RECURSIVO TAIL (CAUDA)
+<img src="/img/fat_tail.png">
+
+#### COMPORTAMENTO DO ALGORITMO FATORIAL ITERATIVO
+<img src="/img/fat_it.png">
+
+#### COMPARATIVO DAS TRÊS ABORDAGENS
+<img src="/img/fat_comp.png">
