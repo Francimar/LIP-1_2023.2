@@ -66,4 +66,4 @@ Usando um terminal em um ambiente Linux faça: <br/>
 #### COMANDOS PARA GERAR OS GRÁFICOS NO GNUPLOT
 1 - Gnuplot (Necessário ter o Gnuplot instalado na máquina) <br/>
 2 - plot 'data.txt' with lines <br/>
-[Mais Informações sobre o Gnuplot](http://www.gnuplot.info/documentation.html)
+[Mais Informações sobre o Gnuplot](http://www.gnuplot.info/)
