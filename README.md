@@ -18,3 +18,16 @@ relação ao número de elementos é linear, ou seja, cresce proporcionalmente.
 
 #### COMPORTAMENTO DA BUSCA LINEAR
 <img src="/img/linear.png"> 
+
+### SEQUÊNCIA DE FIBONACCI
+Na matemática, a sucessão de Fibonacci (ou sequência de Fibonacci), é uma sequência de números inteiros, começando normalmente 
+por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores. A sequência recebeu o nome do matemático italiano 
+Leonardo de Pisa ou Leonardo Fibonacci, mais conhecido por apenas Fibonacci, que descreveu, no ano de 1202, o crescimento de uma população 
+de coelhos, a partir desta. Esta sequência já era, no entanto, conhecida na antiguidade.
+[Mais Informações](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci) 
+
+#### COMPORTAMENTO DO ALGORITMO DE FIBONACCI ITERATIVO
+<img src="/img/fibo_iterativo.png">
+
+#### COMPORTAMENTO DO ALGORITMO DE FIBONACCI RECURSIVO
+<img src="/img/fibo_recur.png">
