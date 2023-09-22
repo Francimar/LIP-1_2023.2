@@ -13,7 +13,7 @@ Ela funciona dividindo repetidamente pela metade a porção da lista que deve co
 reduzir as localizações possíveis a apenas uma. Um pré-requisito é que o vetor esteja ordenado.
 [Mais Informações](https://pt.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) 
 
-#### COMPORTAMENTO DA BUSCA BINÁRIA
+#### COMPORTAMENTO DO ALGORITMO DA BUSCA BINÁRIA
 <img src="/img/binary_search.png">
 
 ### BUSCA LINEAR
@@ -22,7 +22,7 @@ um tipo de pesquisa em vetores ou listas de modo sequencial, i. e., elemento por
 relação ao número de elementos é linear, ou seja, cresce proporcionalmente.
 [Mais Informações](https://pt.wikipedia.org/wiki/Busca_linear)
 
-#### COMPORTAMENTO DA BUSCA LINEAR
+#### COMPORTAMENTO DO ALGORITMO DA BUSCA LINEAR
 <img src="/img/linear.png"> 
 
 ### SEQUÊNCIA DE FIBONACCI
