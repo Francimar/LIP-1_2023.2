@@ -6,7 +6,7 @@ int main() {
 
     std::vector<int> vetor = {5, 2, 9, 1, 5, 6};
 
-    ordenar o vetor em ordem crescente
+    //ordenar o vetor em ordem crescente
     std::sort(vetor.begin(), vetor.end());
 
     // Imprimindo o vetor ordenado
