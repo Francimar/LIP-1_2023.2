@@ -15,6 +15,10 @@ Na solução encontrada faço três verificações por chamadas: Uma no início 
 Como falado anteriormente o tempo da função sort do C++ é O(n). Com isso somando o tempo dela à soma da busca binária que é O(log(n)) temos O(n + log(n)) como mostra o gráfico abaixo: 
 <img src="/img/time_sort-binary_search.png"> 
 
+#### COMPARATIVO ENTRE AS ABORDAGENS
+Como pode ser visto no gráfico abaixo, a abordagem proposta é um tanto quanto melhor do que a ordenação mais o tempo da busca binária.
+<img src="/img/compare.png"> 
+
 ### UNIDADE I
 #### Assuntos Estudados
 1 - Iteração x Recursão;<br/>
