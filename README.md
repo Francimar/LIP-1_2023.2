@@ -11,7 +11,9 @@ Como resultado encontrei uma solução na ordem de O(n/3) enquanto que o tempo p
 Na solução encontrada faço três verificações por chamadas: Uma no início do vetor, uma no final e uma no meio (calculado por (início + fim)/2) obtendo o desempenho como na imagem abaixo:
 <img src="/img/time-fcm.png"> 
 
-
+#### ORDENAÇÃO MAIS BUSCA BINÁRIA
+Como falado anteriormente o tempo da função sort do C++ é O(n). Com isso somando o tempo dela à soma da busca binária que é O(log(n)) temos O(n + log(n)) como mostra o gráfico abaixo: 
+<img src="/img/time_sort-binary_search.png"> 
 
 ### UNIDADE I
 #### Assuntos Estudados
