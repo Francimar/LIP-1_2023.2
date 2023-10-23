@@ -9,7 +9,7 @@ Como resultado encontrei uma solução na ordem de O(n/3) enquanto que o tempo p
 
 #### SOLUÇÃO PROPOSTA
 Na solução encontrada faço três verificações por chamadas: Uma no início do vetor, uma no final e uma no meio (calculado por (início + fim)/2) obtendo o desempenho como na imagem abaixo:
-<iimg src="/img/time-fcm.png"> 
+<img src="/img/time-fcm.png"> 
 
 
 
