@@ -1,5 +1,24 @@
 # LIP-1_2023.2
 
+### UNIDADE II
+A busca binária, como estudado na unidade I, é muito eficiente para encontrar um número em um vetor, porém exige que o vetor esteja ordenado! Isso em alguns contextos pode ser uma tarefa um tanto quanto difícil ou até mesmo muito custoso. Como proposta, será que existe uma solução para buscar um número em um vetor não ordenado que seja mais eficiente do que ordenar o vetor e fazer a busca binária? 
+
+Como trabalho prático, foi proposto buscar um número em um vetor não ordenado usando características da busca binária como o uso de índices e recursão. E após isso comparar com o tempo de ordenar o vetor e fazer a busca binária. 
+
+Como resultado encontrei uma solução na ordem de O(n/3) enquanto que o tempo para ordenar o vetor (usando a função sort do c++) mais a busca binária resultou em uma complexidade O(n + log(n)). Segue os comparativos.
+
+#### SOLUÇÃO PROPOSTA
+Na solução encontrada faço três verificações por chamadas: Uma no início do vetor, uma no final e uma no meio (calculado por (início + fim)/2) obtendo o desempenho como na imagem abaixo:
+<img src="/img/time-fcm.png"> 
+
+#### ORDENAÇÃO MAIS BUSCA BINÁRIA
+Como falado anteriormente o tempo da função sort do C++ é O(n). Com isso somando o tempo dela à soma da busca binária que é O(log(n)) temos O(n + log(n)) como mostra o gráfico abaixo: 
+<img src="/img/time_sort-binary_search.png"> 
+
+#### COMPARATIVO ENTRE AS ABORDAGENS
+Como pode ser visto no gráfico abaixo, a abordagem proposta é um tanto quanto melhor do que a ordenação mais o tempo da busca binária.
+<img src="/img/compare.png"> 
+
 ### UNIDADE I
 #### Assuntos Estudados
 1 - Iteração x Recursão;<br/>
