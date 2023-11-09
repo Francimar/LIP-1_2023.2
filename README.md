@@ -2,7 +2,7 @@
 
 ### UNIDADE II
 Com o intuito de diminuir o tempo de execução dos algoritmos, a média que antes era calculada executando dez mil vezes foi baixada para cem vezes. Com isso o tempo de execução diminuiu significativamente, porém o resultado do gráfico não ficou tão "equalizado" como antes. Podemos verificar na imagem abaixo:
-<img src="/img/bs-100.png">
+<img src="/img/bs-100.jpeg">
 
 
 
