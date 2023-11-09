@@ -1,6 +1,12 @@
 # LIP-1_2023.2
 
 ### UNIDADE II
+Com o intuito de diminuir o tempo de execução dos algoritmos, a média que antes era calculada executando dez mil vezes foi baixada para cem vezes. Com isso o tempo de execução diminuiu significativamente, porém o resultado do gráfico não ficou tão "equalizado" como antes. Podemos verificar na imagem abaixo:
+<img src="/img/bs-100.png">
+
+
+
+
 A busca binária, como estudado na unidade I, é muito eficiente para encontrar um número em um vetor, porém exige que o vetor esteja ordenado! Isso em alguns contextos pode ser uma tarefa um tanto quanto difícil ou até mesmo muito custoso. Como proposta, será que existe uma solução para buscar um número em um vetor não ordenado que seja mais eficiente do que ordenar o vetor e fazer a busca binária? 
 
 Como trabalho prático, foi proposto buscar um número em um vetor não ordenado usando características da busca binária como o uso de índices e recursão. E após isso comparar com o tempo de ordenar o vetor e fazer a busca binária. 
