@@ -14,7 +14,7 @@ int main() {
 
     if(arquivo.is_open()){
         
-        string linha, linha_p1, linha_p2;
+        string linha;
 
         while(getline(arquivo, linha)){
 
